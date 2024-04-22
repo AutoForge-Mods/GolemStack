@@ -24,6 +24,8 @@ All Flora have had there stack limit increased by a factor of 2.5, so the new st
 
 All Tiles have had there stack limit increased by a factor of 2.5, so the new stack size will be 250.
 
+<br><br>
+
 For a full list of items affected please look in MASTER.md
 
 To install simply drag the folder named "GolemStack" into your mods folder of your AutoForge install directory. This should be located at "SteamLibrary\steamapps\common\AutoForge\mods"
