@@ -5,6 +5,8 @@
 <br>
 
 > The purpose of this mod is to increase item stack sizes
+>
+>  Safe to add and remove from existing saves
 
 Current Changes
 
